@@ -1,0 +1,3 @@
+[submodule "lab-react-ironnutrition"]
+	path = lab-react-ironnutrition
+	url = https://github.com/aikengx/lab-react-ironnutrition.git
